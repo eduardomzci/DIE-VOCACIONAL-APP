@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/release' branch; Version is '2020.3.15f2 (6cf78cb77498) revision 7141260'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Pro; OS build 19042.1237; Version 2009; 64bit' Language: 'es' Physical Memory: 16293 MB
+OS: 'Windows 10 Education; OS build 19043.1237; Version 2009; 64bit' Language: 'en' Physical Memory: 16234 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,116 +11,116 @@ C:\Program Files\Unity\Hub\Editor\2020.3.15f2\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-D:/Unity_Proyectos/GitHub-VOCACIONAL/DIE-VOCACIONAL-APP
+D:/Univalle/Practica Profesional/DIE-VOCACIONAL-APP
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61419
-Successfully changed project path to: D:/Unity_Proyectos/GitHub-VOCACIONAL/DIE-VOCACIONAL-APP
-D:/Unity_Proyectos/GitHub-VOCACIONAL/DIE-VOCACIONAL-APP
+50998
+Successfully changed project path to: D:/Univalle/Practica Profesional/DIE-VOCACIONAL-APP
+D:/Univalle/Practica Profesional/DIE-VOCACIONAL-APP
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 24.83 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 26.15 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.15f2 (6cf78cb77498)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path D:/Unity_Proyectos/GitHub-VOCACIONAL/DIE-VOCACIONAL-APP/Assets
+[Subsystems] Discovering subsystems at path D:/Univalle/Practica Profesional/DIE-VOCACIONAL-APP/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1660 SUPER (ID=0x21c4)
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
     Vendor:   
-    VRAM:     5991 MB
-    Driver:   30.0.14.7168
+    VRAM:     2987 MB
+    Driver:   30.0.14.7111
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56156
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56032
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.15f2/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002297 seconds.
+Registered in 0.197617 seconds.
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 24.87 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 25.41 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.550 seconds
+- Completed reload, in  4.753 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1550ms)
-		BeginReloadAssembly (45ms)
+	ReloadAssembly (4753ms)
+		BeginReloadAssembly (2127ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (325ms)
-			LoadAssemblies (43ms)
+		EndReloadAssembly (623ms)
+			LoadAssemblies (2129ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (121ms)
+			SetupTypeCache (372ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (25ms)
-			SetupLoadedEditorAssemblies (124ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (142ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (4ms)
+				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (25ms)
-				BeforeProcessingInitializeOnLoad (11ms)
-				ProcessInitializeOnLoadAttributes (63ms)
-				ProcessInitializeOnLoadMethodAttributes (21ms)
+				BeforeProcessingInitializeOnLoad (13ms)
+				ProcessInitializeOnLoadAttributes (70ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001921 seconds.
+Registered in 0.489522 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
-Refreshing native plugins compatible for Editor in 0.29 ms, found 2 plugins.
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.899 seconds
+- Completed reload, in  2.652 seconds
 Domain Reload Profiling:
-	ReloadAssembly (899ms)
-		BeginReloadAssembly (124ms)
+	ReloadAssembly (2656ms)
+		BeginReloadAssembly (137ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (16ms)
-		EndReloadAssembly (721ms)
-			LoadAssemblies (68ms)
+			CreateAndSetChildDomain (17ms)
+		EndReloadAssembly (2462ms)
+			LoadAssemblies (1042ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (217ms)
+			SetupTypeCache (783ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (36ms)
-			SetupLoadedEditorAssemblies (322ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (507ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (5ms)
 				SetLoadedEditorAssemblies (0ms)
 				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (73ms)
-				ProcessInitializeOnLoadAttributes (235ms)
+				BeforeProcessingInitializeOnLoad (86ms)
+				ProcessInitializeOnLoadAttributes (405ms)
 				ProcessInitializeOnLoadMethodAttributes (3ms)
-				AfterProcessingInitializeOnLoad (5ms)
+				AfterProcessingInitializeOnLoad (6ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (5ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1396 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 64.9 MB.
-System memory in use after: 65.0 MB.
+System memory in use before: 78.4 MB.
+System memory in use after: 78.4 MB.
 
-Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1829.
-Total: 1.892900 ms (FindLiveObjects: 0.136900 ms CreateObjectMapping: 0.034100 ms MarkObjects: 1.657800 ms  DeleteObjects: 0.063300 ms)
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 1849.
+Total: 2.427100 ms (FindLiveObjects: 0.141700 ms CreateObjectMapping: 0.037800 ms MarkObjects: 2.167200 ms  DeleteObjects: 0.079500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -129,38 +129,1609 @@ AssetImportParameters requested are different than current active one (requested
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  path: Assets/Eduardo/Prefabs
-  artifactKey: Guid(7974ff0ab95536e488f14955596276e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Eduardo/Prefabs using Guid(7974ff0ab95536e488f14955596276e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90c19cc4491d5640e25acc543b654aed') in 0.008570 seconds 
-  Import took 0.010816 seconds .
+  path: Assets/Cristofer/mapaFacultad1.fbx
+  artifactKey: Guid(4a57b3aa005b5d14b9ed271c00dc12d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cristofer/mapaFacultad1.fbx using Guid(4a57b3aa005b5d14b9ed271c00dc12d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c3e1dc2466ecbc650f002e8428872aa') in 0.237116 seconds 
+  Import took 0.239748 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 28.571520 seconds.
-  path: Assets/Eduardo/Prefabs/Facultad de Ciencias de la Salud.fbx
-  artifactKey: Guid(f6fcdca4d78f8bb4e9161ffc0afca62c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Eduardo/Prefabs/Facultad de Ciencias de la Salud.fbx using Guid(f6fcdca4d78f8bb4e9161ffc0afca62c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c37757f2dca9edc8230acd0fbad8f56') in 0.608876 seconds 
-  Import took 0.611781 seconds .
+  Time since last request: 3713.043724 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_accountant01.fbx
+  artifactKey: Guid(1d549942b3bfb7f43a1977dd6aa83a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_accountant01.fbx using Guid(1d549942b3bfb7f43a1977dd6aa83a3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fcdaca31656f82af6948e9c1044bbfcd') in 0.061590 seconds 
+  Import took 0.064286 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 20.634424 seconds.
-  path: Assets/Eduardo/Prefabs/Facultad de Informatica_v1.fbx
-  artifactKey: Guid(aab53804de0579947b9145ed0c6fd7e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Eduardo/Prefabs/Facultad de Informatica_v1.fbx using Guid(aab53804de0579947b9145ed0c6fd7e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ceee42a001390728a89be098bcfc5b1') in 0.039885 seconds 
-  Import took 0.042493 seconds .
+  Time since last request: 0.000303 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_it01.fbx
+  artifactKey: Guid(7743b022045d0174d84e071efb0fae67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_it01.fbx using Guid(7743b022045d0174d84e071efb0fae67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '558368db7351d58ef138f3bcfe211901') in 0.024263 seconds 
+  Import took 0.026565 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 20.530161 seconds.
-  path: Assets/Eduardo/Prefabs/Facultad de Tecnologia_v3.fbx
-  artifactKey: Guid(337e898306e2e46488e687cda52f3e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Eduardo/Prefabs/Facultad de Tecnologia_v3.fbx using Guid(337e898306e2e46488e687cda52f3e76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8db3bbf9a1b1e4cb2735d0a94bc005ff') in 0.031813 seconds 
-  Import took 0.055513 seconds .
+  Time since last request: 0.000247 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_cleaning01.fbx
+  artifactKey: Guid(a8a9111dda17c03468f31a452d4b1727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_cleaning01.fbx using Guid(a8a9111dda17c03468f31a452d4b1727) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5da34fb187d441ac7c477736d0dd3ab5') in 0.024589 seconds 
+  Import took 0.026950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_stoned01.fbx
+  artifactKey: Guid(79af54673e3c5ef4b81a74e37f691256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_stoned01.fbx using Guid(79af54673e3c5ef4b81a74e37f691256) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78f93019de3197dd62e399cda218b616') in 0.027249 seconds 
+  Import took 0.029444 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_intern01.fbx
+  artifactKey: Guid(21a77591a0daf724ab231dca92a3fd89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_intern01.fbx using Guid(21a77591a0daf724ab231dca92a3fd89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66e006a2c56a30cf22029c710af7bc75') in 0.022689 seconds 
+  Import took 0.024863 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_secretary01.fbx
+  artifactKey: Guid(03271f9a6853cca4ead5bd485cbc88d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_secretary01.fbx using Guid(03271f9a6853cca4ead5bd485cbc88d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28b4a58f173e985f4e7d3f0d6793ae40') in 0.022772 seconds 
+  Import took 0.025067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_secretary01.fbx
+  artifactKey: Guid(333b69473df608940805a04317c56c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_secretary01.fbx using Guid(333b69473df608940805a04317c56c6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '155b5cd30f0e45bdcadde381d81ed04d') in 0.021505 seconds 
+  Import took 0.023693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_chara01.fbx
+  artifactKey: Guid(08a461955fe2451479862746f7aaf670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_chara01.fbx using Guid(08a461955fe2451479862746f7aaf670) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5991303d4246b7f0cda08481e345c274') in 0.021567 seconds 
+  Import took 0.023897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_black01.fbx
+  artifactKey: Guid(d18df5b376f9b1c41ac18ad439491ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_black01.fbx using Guid(d18df5b376f9b1c41ac18ad439491ff3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4447336fc716879a7871c28c7c18ed42') in 0.022618 seconds 
+  Import took 0.024840 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_recepcionist01.fbx
+  artifactKey: Guid(99ce9a003a52a734eb94c75c86ed4e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_recepcionist01.fbx using Guid(99ce9a003a52a734eb94c75c86ed4e3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d1f4c514738c2e30f69de6bc0a45979') in 0.022501 seconds 
+  Import took 0.024703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_recepcionist01.fbx
+  artifactKey: Guid(0f623bf014001584995ab5372e19323d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_recepcionist01.fbx using Guid(0f623bf014001584995ab5372e19323d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4be32b24382675683a1fc0396cc8516d') in 0.022144 seconds 
+  Import took 0.024322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_boss01.fbx
+  artifactKey: Guid(185bfac8d64a19645a089256063d89ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_boss01.fbx using Guid(185bfac8d64a19645a089256063d89ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a31ef2b0b927663b3ae7b3272fd04418') in 0.021383 seconds 
+  Import took 0.023624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_rival01.fbx
+  artifactKey: Guid(2c6fcb3004ba0e344908982afcefad9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_rival01.fbx using Guid(2c6fcb3004ba0e344908982afcefad9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e47f62fee50bd41a5ee5bdc0a2124435') in 0.023589 seconds 
+  Import took 0.025814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_marketing01.fbx
+  artifactKey: Guid(e6cfeff43f9f8d34b88b0b612909ac29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_marketing01.fbx using Guid(e6cfeff43f9f8d34b88b0b612909ac29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8986808feac8e7fb9cd0ce509b398c1f') in 0.020955 seconds 
+  Import took 0.023311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_cleaning01.fbx
+  artifactKey: Guid(4cd1d8a3fc2464b43b0399f07fdad9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_cleaning01.fbx using Guid(4cd1d8a3fc2464b43b0399f07fdad9f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fb5446db26f9611d1fe1fa87cfb6a3b') in 0.022487 seconds 
+  Import took 0.024734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_slacker01.fbx
+  artifactKey: Guid(4d8055b6d6938c34c8737df771fae55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_slacker01.fbx using Guid(4d8055b6d6938c34c8737df771fae55c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0df29eaaf674ea6651f612388eff63e5') in 0.022607 seconds 
+  Import took 0.024789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_suspenders01.fbx
+  artifactKey: Guid(b76b28eac0febc743801947f6ead1ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_suspenders01.fbx using Guid(b76b28eac0febc743801947f6ead1ded) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82622631130e1e1176d6e908b4d169aa') in 0.022424 seconds 
+  Import took 0.024643 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_accountant01.fbx
+  artifactKey: Guid(019e63eb398053c4ab097c7d982339d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_accountant01.fbx using Guid(019e63eb398053c4ab097c7d982339d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a566aa8e52d5d18ef9e18259e2170758') in 0.020868 seconds 
+  Import took 0.023056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_annoying01.fbx
+  artifactKey: Guid(438ef91a5f9e61c45941464eebc462dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_annoying01.fbx using Guid(438ef91a5f9e61c45941464eebc462dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be4613c5de6fb757dc2306e8311caa2f') in 0.023395 seconds 
+  Import took 0.025583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_hipster01.fbx
+  artifactKey: Guid(ec65e91f0d37ac74a89bcd7fa3354177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_hipster01.fbx using Guid(ec65e91f0d37ac74a89bcd7fa3354177) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '087c97e1167221b376e833be098b64af') in 0.023398 seconds 
+  Import took 0.025536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_hipster01.fbx
+  artifactKey: Guid(de452870b33d3a647b54b8b1fb10ff41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_hipster01.fbx using Guid(de452870b33d3a647b54b8b1fb10ff41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67c8a9cfd53c540fcfe9b51ac3526892') in 0.022302 seconds 
+  Import took 0.024473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_marketing01.fbx
+  artifactKey: Guid(b538e4dd12efa8a40ab7dd3a66d39dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_marketing01.fbx using Guid(b538e4dd12efa8a40ab7dd3a66d39dc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ebb9958c14489da08a56de2e8580e15') in 0.021733 seconds 
+  Import took 0.023872 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_it01.fbx
+  artifactKey: Guid(5773791c2747fd34aa8dfbe1cf71e51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_it01.fbx using Guid(5773791c2747fd34aa8dfbe1cf71e51a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c6bad95c06192274682e526f5f08eb7') in 0.026738 seconds 
+  Import took 0.028899 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_black01.fbx
+  artifactKey: Guid(cdaba05c004e27b4d8f2f4478674afec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_black01.fbx using Guid(cdaba05c004e27b4d8f2f4478674afec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '609da7f9bec93527a40ee186f3e10434') in 0.022291 seconds 
+  Import took 0.024573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_boss01.fbx
+  artifactKey: Guid(527746c3de683a746b700572020ce4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_boss01.fbx using Guid(527746c3de683a746b700572020ce4c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f16bf252ea3297ed33ea2809fab5cf8f') in 0.022028 seconds 
+  Import took 0.024283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_suspenders01.fbx
+  artifactKey: Guid(4e6fd9393b923094db14dc563f557f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_suspenders01.fbx using Guid(4e6fd9393b923094db14dc563f557f38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec5206c4e4610b6aa5fe689b6f5ec08a') in 0.023130 seconds 
+  Import took 0.025285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_slacker01.fbx
+  artifactKey: Guid(dc523cb225f130945948050f34f17565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_slacker01.fbx using Guid(dc523cb225f130945948050f34f17565) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc690b532aa326946ad7dca01fc7edec') in 0.020900 seconds 
+  Import took 0.023167 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_intern01.fbx
+  artifactKey: Guid(4a57d19eb4452ff498c17131cefb7882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_m_intern01.fbx using Guid(4a57d19eb4452ff498c17131cefb7882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cb6f19193a444ae43d3328270366512') in 0.024579 seconds 
+  Import took 0.026794 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_chara01.fbx
+  artifactKey: Guid(0a9d829b6431f35448b98cdf4aa9fda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/mesh_office_f_chara01.fbx using Guid(0a9d829b6431f35448b98cdf4aa9fda9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be24f8576f608437a0bd8ab9132ac1b3') in 0.022778 seconds 
+  Import took 0.024943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.015024 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/Materials/character.mat
+  artifactKey: Guid(9d0b798dd313ffd4e9e58bb4a5313b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/Materials/character.mat using Guid(9d0b798dd313ffd4e9e58bb4a5313b00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a28b1d5ff746f893ed1f484a47506ceb') in 0.015296 seconds 
+  Import took 0.017625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.559775 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/Textures/texture_01.png
+  artifactKey: Guid(577fcb3a5944ef040b25e05e792ae7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/Textures/texture_01.png using Guid(577fcb3a5944ef040b25e05e792ae7f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca8321a3dd4f764f94667cd55e19134f') in 0.023118 seconds 
+  Import took 0.025603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.482170 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_3dPrinter.fbx
+  artifactKey: Guid(a87a53b996c2d6a4782bff6305722eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_3dPrinter.fbx using Guid(a87a53b996c2d6a4782bff6305722eb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55f4ca6403eb6fea1f051e5d0ec5db11') in 0.025225 seconds 
+  Import took 0.027604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_windowhole.fbx
+  artifactKey: Guid(9fd0561331f06b6489557667f2672447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_windowhole.fbx using Guid(9fd0561331f06b6489557667f2672447) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c76dc41303bf78d558213bdba454fe9d') in 0.021162 seconds 
+  Import took 0.023641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_suitcase.fbx
+  artifactKey: Guid(5626c511a4665b244b2b0c1069142c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_suitcase.fbx using Guid(5626c511a4665b244b2b0c1069142c16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a4b9b9d95d45d57e2a3bc6edb4f7b66') in 0.029991 seconds 
+  Import took 0.032831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_flexo.fbx
+  artifactKey: Guid(3a6e9d20196fd4845aa513aa3c08d70b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_flexo.fbx using Guid(3a6e9d20196fd4845aa513aa3c08d70b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c7d7be3aa9e8bd3df467d065d192167') in 0.023813 seconds 
+  Import took 0.026106 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000307 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_waterCooler.fbx
+  artifactKey: Guid(5f5c6baac71fa0a4bb9dd9d91c1b2c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_waterCooler.fbx using Guid(5f5c6baac71fa0a4bb9dd9d91c1b2c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed8aa3c935d64d8d6eb5ae04c4d45b0c') in 0.022156 seconds 
+  Import took 0.024599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Wall_Corner.fbx
+  artifactKey: Guid(a59d018e9c14e9b438d8a9cdba59c5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Wall_Corner.fbx using Guid(a59d018e9c14e9b438d8a9cdba59c5d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd1fcd0894db3ee5951d60c00fb208bf') in 0.017282 seconds 
+  Import took 0.019569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_microwave.fbx
+  artifactKey: Guid(780a4a4a4fca95148b5981b43a567a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_microwave.fbx using Guid(780a4a4a4fca95148b5981b43a567a5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3dcca7b949d96987def7069eadfa8e6c') in 0.041340 seconds 
+  Import took 0.043704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_pen_01.fbx
+  artifactKey: Guid(fe8110ab3fb4cb040a78004d51cc44e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_pen_01.fbx using Guid(fe8110ab3fb4cb040a78004d51cc44e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fe0b5cd55716ea321bdb420f10c7965') in 0.017911 seconds 
+  Import took 0.020069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_flask.fbx
+  artifactKey: Guid(54e349777e4298e4f9be5c9e4aa74b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_flask.fbx using Guid(54e349777e4298e4f9be5c9e4aa74b46) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f0bc3c5401d0acef3b78cdcb2d3273d') in 0.017454 seconds 
+  Import took 0.019918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_tv_01.fbx
+  artifactKey: Guid(98b918f337566884ca93f0222c5e24bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_tv_01.fbx using Guid(98b918f337566884ca93f0222c5e24bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc3c574884331ca269da503cde465add') in 0.015800 seconds 
+  Import took 0.018096 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_printer_01.fbx
+  artifactKey: Guid(4543e83de58b4c646827eff79fcdd061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_printer_01.fbx using Guid(4543e83de58b4c646827eff79fcdd061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ecfdbf1ba91c5cf955cf6234273c9c6d') in 0.015409 seconds 
+  Import took 0.018064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_firealarm.fbx
+  artifactKey: Guid(272d9501e72e3c44b97e02c68ca6835f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_firealarm.fbx using Guid(272d9501e72e3c44b97e02c68ca6835f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7939f4c1ab0484d6075ae840f862f9bd') in 0.018246 seconds 
+  Import took 0.020716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Wall_T.fbx
+  artifactKey: Guid(75c63ae4d0c94504b8bbdc24c0e1883e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Wall_T.fbx using Guid(75c63ae4d0c94504b8bbdc24c0e1883e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdfb66e29691b0fdca5f3ecc8eeef6ae') in 0.015652 seconds 
+  Import took 0.018991 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_smoke.fbx
+  artifactKey: Guid(1402fcdded917d3428188a154ea6ddb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_smoke.fbx using Guid(1402fcdded917d3428188a154ea6ddb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1fe93c64dd3b78e9c966a87771df5e7') in 0.018479 seconds 
+  Import took 0.021059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_chair_01.fbx
+  artifactKey: Guid(1530b6e8012e5ad44972efb447aa7d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_chair_01.fbx using Guid(1530b6e8012e5ad44972efb447aa7d11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1577f590fea843e6dec878af8c9acb48') in 0.017297 seconds 
+  Import took 0.020051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_eraser.fbx
+  artifactKey: Guid(68fd357edabc8f14ab368201b1678cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_eraser.fbx using Guid(68fd357edabc8f14ab368201b1678cfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c6c81d3e23b6c705922cbcb616b050') in 0.017277 seconds 
+  Import took 0.020057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_plant_a_01.fbx
+  artifactKey: Guid(6ce5771815230b44385950608b58d253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_plant_a_01.fbx using Guid(6ce5771815230b44385950608b58d253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15c5a2aebc19cb0dc2adc45f6b622873') in 0.017820 seconds 
+  Import took 0.020581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_recepcionisttable.fbx
+  artifactKey: Guid(16ed1442f6f4e93409002d0f5fec73cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_recepcionisttable.fbx using Guid(16ed1442f6f4e93409002d0f5fec73cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21304b9ccdd6dbd440676bf439d46d60') in 0.017546 seconds 
+  Import took 0.020033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_table_a_01.fbx
+  artifactKey: Guid(6f2edcb5c8690d446b62b285782079db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_table_a_01.fbx using Guid(6f2edcb5c8690d446b62b285782079db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '872b11e51ded9aaa3974158001382a79') in 0.017513 seconds 
+  Import took 0.020097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_toolbox.fbx
+  artifactKey: Guid(0873ee0553f90d543bf619b564bd9611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_toolbox.fbx using Guid(0873ee0553f90d543bf619b564bd9611) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '915a039b9e769a56c7994f2eff32b070') in 0.016968 seconds 
+  Import took 0.019590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/wall(Clone).prefab
+  artifactKey: Guid(9b9ff3df15d109a48b665d8750e7d276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/wall(Clone).prefab using Guid(9b9ff3df15d109a48b665d8750e7d276) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '529979340fd896ff48320e1ddeedfd02') in 0.014003 seconds 
+  Import took 0.016601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_PC_01.fbx
+  artifactKey: Guid(49ddef57dd87da2489028c9f6666f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_PC_01.fbx using Guid(49ddef57dd87da2489028c9f6666f2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61853f51d248b17f671143abd378d9ff') in 0.017854 seconds 
+  Import took 0.020686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_fan.fbx
+  artifactKey: Guid(687d190e4762bc54d928c33d43c01e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_fan.fbx using Guid(687d190e4762bc54d928c33d43c01e95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e804c49528080f9af24b9581fdd4dba') in 0.020100 seconds 
+  Import took 0.022754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_aidKit.fbx
+  artifactKey: Guid(7dd464caffe1190458015e2364538a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_aidKit.fbx using Guid(7dd464caffe1190458015e2364538a52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '099b7c66038fc7b2b3688e88c4c8cac4') in 0.018947 seconds 
+  Import took 0.021630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_chair02.fbx
+  artifactKey: Guid(1d503b89d5aef134282d8fc38e41f52c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_chair02.fbx using Guid(1d503b89d5aef134282d8fc38e41f52c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0de297e2005832addb11fae55c9a2e5d') in 0.015974 seconds 
+  Import took 0.018474 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_window.fbx
+  artifactKey: Guid(1e861bfed19ef9e419528c4862abb705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_window.fbx using Guid(1e861bfed19ef9e419528c4862abb705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b62f35b60657a9988f21432b723f0e') in 0.039452 seconds 
+  Import took 0.041892 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_cabinets.fbx
+  artifactKey: Guid(a4f29f93f6cf7c844b4c2bbbf5fb3e9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_cabinets.fbx using Guid(a4f29f93f6cf7c844b4c2bbbf5fb3e9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50a145c00fe8938d398ff519ff5adb26') in 0.035289 seconds 
+  Import took 0.037485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_vr_01.fbx
+  artifactKey: Guid(b7b25063469096f42adc4e3ffa7525a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_vr_01.fbx using Guid(b7b25063469096f42adc4e3ffa7525a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97b7a613badf97ccdc9d37e5d34137aa') in 0.015839 seconds 
+  Import took 0.018300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_bin_01.fbx
+  artifactKey: Guid(33a6f0c77a714eb49b8a3506374ab579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_bin_01.fbx using Guid(33a6f0c77a714eb49b8a3506374ab579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72e7e18b21b4858e64b9d557e9633cd8') in 0.016887 seconds 
+  Import took 0.019199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_table_b_01.fbx
+  artifactKey: Guid(6d2bdd4720a7ac44687edae6f95a1258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_table_b_01.fbx using Guid(6d2bdd4720a7ac44687edae6f95a1258) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2ee4bf00d7ea804ee9ec9b21b139841') in 0.014117 seconds 
+  Import took 0.016641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000424 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_stamp.fbx
+  artifactKey: Guid(3ace4874a506ab845b660c5c2fb50b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_stamp.fbx using Guid(3ace4874a506ab845b660c5c2fb50b8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3819a1bf1215a7baf0dc59710ade1753') in 0.015319 seconds 
+  Import took 0.018053 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Stapler.fbx
+  artifactKey: Guid(d8a4a5ae3c6eec741b082105b15c8ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Stapler.fbx using Guid(d8a4a5ae3c6eec741b082105b15c8ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58ec0e346ea57805849073df25a01486') in 0.023891 seconds 
+  Import took 0.026204 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Wall_X.fbx
+  artifactKey: Guid(0baccc79203f06a4ebbde1333aeaa638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Wall_X.fbx using Guid(0baccc79203f06a4ebbde1333aeaa638) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e03cd6778e0d6bd0fcc211f8354067b') in 0.014958 seconds 
+  Import took 0.017413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_figurine.fbx
+  artifactKey: Guid(824950d6f1030c34684c4cf547b26119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_figurine.fbx using Guid(824950d6f1030c34684c4cf547b26119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b9347de9c92a2a87ab2832697e31a64') in 0.017756 seconds 
+  Import took 0.020105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000514 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_safebox_01.fbx
+  artifactKey: Guid(4bd711a34ca838c41afde7b040cd2369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_safebox_01.fbx using Guid(4bd711a34ca838c41afde7b040cd2369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11870a8c034a99aa41a6f2455bdfe881') in 0.014503 seconds 
+  Import took 0.017562 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_desk_01.fbx
+  artifactKey: Guid(42061b0f2f1d4b144b8dcfb9723c9e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_desk_01.fbx using Guid(42061b0f2f1d4b144b8dcfb9723c9e6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ebd801e5d132c9c51c18dd5db5f3c13') in 0.016913 seconds 
+  Import took 0.019305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_clock 1.fbx
+  artifactKey: Guid(a0c5c31f3a72cb5489d25412535caaab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_clock 1.fbx using Guid(a0c5c31f3a72cb5489d25412535caaab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bd7eb433f0aabc8f61ad8a015261b20') in 0.022828 seconds 
+  Import took 0.025109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_cleaning_vroom.fbx
+  artifactKey: Guid(d47e9697a1edf004980516e303f52155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_cleaning_vroom.fbx using Guid(d47e9697a1edf004980516e303f52155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c3e0d7cb223e3796ce07f00c27490e4') in 0.014945 seconds 
+  Import took 0.017236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Wall_Standar.fbx
+  artifactKey: Guid(8f747c61c6f15754b99fb57be237571c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Wall_Standar.fbx using Guid(8f747c61c6f15754b99fb57be237571c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d193d8cd878a1614501d11c7e697a1a') in 0.013529 seconds 
+  Import took 0.015897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_shelf_01.fbx
+  artifactKey: Guid(bcfec9a09800316479a203487f979f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_shelf_01.fbx using Guid(bcfec9a09800316479a203487f979f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42693a22fa65c4ec83bc6633f8f5e31b') in 0.015598 seconds 
+  Import took 0.018199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_mouse_01.fbx
+  artifactKey: Guid(df376604cbc0d73419a5eb96e06a6a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_mouse_01.fbx using Guid(df376604cbc0d73419a5eb96e06a6a06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '920dffa5aa904d02b1cb92d77e99dc15') in 0.014041 seconds 
+  Import took 0.016311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_sofa.fbx
+  artifactKey: Guid(ad168f78fcb2d214c978f0f537eba8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_sofa.fbx using Guid(ad168f78fcb2d214c978f0f537eba8ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1ab4ed37f1d9a550ea82dd397e1ee02') in 0.038501 seconds 
+  Import took 0.040917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_caution_wetfloor.fbx
+  artifactKey: Guid(8fe609c4911afa54392239563cb7a49a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_caution_wetfloor.fbx using Guid(8fe609c4911afa54392239563cb7a49a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f64d63778f10ec76f46958365e080ea0') in 0.015395 seconds 
+  Import took 0.017673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_paperbox.fbx
+  artifactKey: Guid(b93e089d5d541bc4fb4bd6138ac1ec7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_paperbox.fbx using Guid(b93e089d5d541bc4fb4bd6138ac1ec7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a97fb2b49a1c6a1dc90a756977be972e') in 0.015751 seconds 
+  Import took 0.018060 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_whiteBoard.fbx
+  artifactKey: Guid(1bef504c6cbc5794997df0dd46bb4c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_whiteBoard.fbx using Guid(1bef504c6cbc5794997df0dd46bb4c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e9a5de2f3138a12710286ff72a91325') in 0.038769 seconds 
+  Import took 0.041236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Door_Exit.fbx
+  artifactKey: Guid(641bb16b2f0bb0c48857f3cf92cf1aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Door_Exit.fbx using Guid(641bb16b2f0bb0c48857f3cf92cf1aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61ef7b2df637f45dd59f8a4f3c592cdf') in 0.013256 seconds 
+  Import took 0.015585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_cleaning_cube.fbx
+  artifactKey: Guid(073ad4d1b0bcb9c42999c82f3a243287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_cleaning_cube.fbx using Guid(073ad4d1b0bcb9c42999c82f3a243287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e481f2f05411d2bed080f6322170932') in 0.015764 seconds 
+  Import took 0.018071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Door.fbx
+  artifactKey: Guid(1f027cd5c40b5344fb229ca6067e8052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Door.fbx using Guid(1f027cd5c40b5344fb229ca6067e8052) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20694a6752492f1c34407c74197284fc') in 0.022718 seconds 
+  Import took 0.029843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_plant_b_01.fbx
+  artifactKey: Guid(8bdb4a45ed93f8b4bbd8b5938bafbc81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_plant_b_01.fbx using Guid(8bdb4a45ed93f8b4bbd8b5938bafbc81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a3c44e6a6296539019e6561d491ebfc') in 0.015841 seconds 
+  Import took 0.018144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_shredder.fbx
+  artifactKey: Guid(6b947d46edee463439593ad16657fc4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_shredder.fbx using Guid(6b947d46edee463439593ad16657fc4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '253a13ac16d2890d34eda86fd784908b') in 0.017684 seconds 
+  Import took 0.019936 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_cleaning_sprayBottle.fbx
+  artifactKey: Guid(7e74345b0f910414ab6013d907c57264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_cleaning_sprayBottle.fbx using Guid(7e74345b0f910414ab6013d907c57264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '513a23cc713063f44054d93917f9d6a9') in 0.015436 seconds 
+  Import took 0.017646 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_photo.fbx
+  artifactKey: Guid(5e7c9835ef504ec4b946488ea4724292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_photo.fbx using Guid(5e7c9835ef504ec4b946488ea4724292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04c8266ad7be0f2517c7230f714cb23b') in 0.015594 seconds 
+  Import took 0.017790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_officechair.fbx
+  artifactKey: Guid(a3f3f21035a7fec4d8d213a85df99633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_officechair.fbx using Guid(a3f3f21035a7fec4d8d213a85df99633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bce2ac6a4eeb957121c9688896d10b9') in 0.015571 seconds 
+  Import took 0.017847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_phone_01.fbx
+  artifactKey: Guid(0bae4f35a5b343c45af58790b4bde558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_phone_01.fbx using Guid(0bae4f35a5b343c45af58790b4bde558) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84f993989547f40079a1adff75a19797') in 0.015147 seconds 
+  Import took 0.017311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_extinguisher_01.fbx
+  artifactKey: Guid(e74d831e5f17ed542a7bbb5f55845c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_extinguisher_01.fbx using Guid(e74d831e5f17ed542a7bbb5f55845c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28ae034e8112f22c1c2964d50f82333e') in 0.015900 seconds 
+  Import took 0.018218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_mug.fbx
+  artifactKey: Guid(191dcd3db83f64342943a4b8dd6c6157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_mug.fbx using Guid(191dcd3db83f64342943a4b8dd6c6157) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7347526af8c8727c7079b922a43f35ae') in 0.017234 seconds 
+  Import took 0.019545 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Lingote.fbx
+  artifactKey: Guid(a58013f0177348545a4cf949d94789c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Lingote.fbx using Guid(a58013f0177348545a4cf949d94789c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95e9f5e7a24879b1728d3e05898581b7') in 0.015915 seconds 
+  Import took 0.018254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Wall_Door.fbx
+  artifactKey: Guid(48b546e2cb88f2c4e9a16cc087bed287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Mesh_Wall_Door.fbx using Guid(48b546e2cb88f2c4e9a16cc087bed287) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5bfd984fd750ba2306cf9763037e0a3f') in 0.015102 seconds 
+  Import took 0.017678 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000318 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_cleaning_cart.fbx
+  artifactKey: Guid(c8d240abb19727340aeca0799fd2a023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_cleaning_cart.fbx using Guid(c8d240abb19727340aeca0799fd2a023) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c458c8e0ec848de93a656c732d1d4ed5') in 0.016482 seconds 
+  Import took 0.018946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_coatrack_01.fbx
+  artifactKey: Guid(c9b75bcd3297cd34e9790084a023f1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_coatrack_01.fbx using Guid(c9b75bcd3297cd34e9790084a023f1a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acc2b2eee594bd3b90e5edcaabc60c10') in 0.015592 seconds 
+  Import took 0.018121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_l_table.fbx
+  artifactKey: Guid(1ecf1a56521a0df459d3e2497fc5a210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_l_table.fbx using Guid(1ecf1a56521a0df459d3e2497fc5a210) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c259d838928939c5e6241bca4c751939') in 0.015180 seconds 
+  Import took 0.017463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_fireHose.fbx
+  artifactKey: Guid(7cf3a72069c8cd14ab65dc1fbb7f16a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_fireHose.fbx using Guid(7cf3a72069c8cd14ab65dc1fbb7f16a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb65e74ccdefb27941d74e8a48f4f75') in 0.018546 seconds 
+  Import took 0.020962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/mesh_laptop_01.fbx
+  artifactKey: Guid(d01bed409228d1040b01436565a3dec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/mesh_laptop_01.fbx using Guid(d01bed409228d1040b01436565a3dec3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4befba7e1a38f87700673b126bedd3d2') in 0.014524 seconds 
+  Import took 0.016879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 253.681007 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Sitting (1).fbx
+  artifactKey: Guid(e15dbac1b30bbe04184c911e7fd6e70d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Sitting (1).fbx using Guid(e15dbac1b30bbe04184c911e7fd6e70d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7965ee4be6551add5906a7d59954923') in 0.024440 seconds 
+  Import took 0.027521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Sitting Disbelief.fbx
+  artifactKey: Guid(b5c2fad6794b85c418391a4ee59c7578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Sitting Disbelief.fbx using Guid(b5c2fad6794b85c418391a4ee59c7578) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68b97c8bcffe1761bf2f3e8ac3f78ae1') in 0.028147 seconds 
+  Import took 0.030698 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Sitting Angry.fbx
+  artifactKey: Guid(d8b52ff15416a834fa29d51b5c330b74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Sitting Angry.fbx using Guid(d8b52ff15416a834fa29d51b5c330b74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f29f8884456615d5714e37ba01266813') in 0.041380 seconds 
+  Import took 0.043573 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Typing.fbx
+  artifactKey: Guid(3d99b844cb5b7c3469919fc7f5ca526e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Typing.fbx using Guid(3d99b844cb5b7c3469919fc7f5ca526e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13ef6680ceb39162d52e26b64d55effa') in 0.038475 seconds 
+  Import took 0.040704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000362 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Sitting.fbx
+  artifactKey: Guid(be65d7d25a2e9ad43bb2f00083ebad14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Sitting.fbx using Guid(be65d7d25a2e9ad43bb2f00083ebad14) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d0f26c226c82197c1311cf7858ecc6d') in 0.042607 seconds 
+  Import took 0.044929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.805001 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Textures/texture_01.png
+  artifactKey: Guid(92612c382c0c91d4e934e45cc78f67ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Textures/texture_01.png using Guid(92612c382c0c91d4e934e45cc78f67ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1c6811bb66b3501f940f28d32ed6b5c') in 0.007389 seconds 
+  Import took 0.009622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.610405 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Materials/character.mat
+  artifactKey: Guid(a1a5b498f5ace5b4a9e72f95c42ef961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Scenes/Demo Scene/Materials/character.mat using Guid(a1a5b498f5ace5b4a9e72f95c42ef961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7133cc2c4cc6d8a3f70d257ce266600') in 0.016193 seconds 
+  Import took 0.018424 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.909099 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Textures/texture_01.png
+  artifactKey: Guid(6e26dda4bf671074c85269e6800b5cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Textures/texture_01.png using Guid(6e26dda4bf671074c85269e6800b5cc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd574bd366e50d610caf469ed0b84549a') in 0.006933 seconds 
+  Import took 0.009384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.944962 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Materials/cloth.mat
+  artifactKey: Guid(3955a8ac4d8821f41b15cb93304e2f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Materials/cloth.mat using Guid(3955a8ac4d8821f41b15cb93304e2f3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '782fcfae0d977e280b601f33d1cf6dec') in 0.014174 seconds 
+  Import took 0.016691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Materials/Wall.mat
+  artifactKey: Guid(86d7187940ef286429a5f8c76bbe0e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Materials/Wall.mat using Guid(86d7187940ef286429a5f8c76bbe0e87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e20643eafb090d46f291eb787abf363e') in 0.013735 seconds 
+  Import took 0.015940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Materials/mesh_desk_01-wood.mat
+  artifactKey: Guid(175b8467178ad1544ac598dde1432766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Materials/mesh_desk_01-wood.mat using Guid(175b8467178ad1544ac598dde1432766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f328792cdb9e26e0dd662c18b957e1ef') in 0.021917 seconds 
+  Import took 0.024002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Materials/Gold.mat
+  artifactKey: Guid(1e0fd9336ba96dc4289d12ac94e28cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Materials/Gold.mat using Guid(1e0fd9336ba96dc4289d12ac94e28cfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5f6b6b74df6fc9c68a5dae35cf142dd') in 0.017948 seconds 
+  Import took 0.020137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Materials/tech.mat
+  artifactKey: Guid(7649336b692da6b48ad9d02ce143c193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Materials/tech.mat using Guid(7649336b692da6b48ad9d02ce143c193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f2ed769812f969023699241a1d66400') in 0.017496 seconds 
+  Import took 0.019584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Materials/metal.mat
+  artifactKey: Guid(59f7e7ebc565806469169157dd769854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Materials/metal.mat using Guid(59f7e7ebc565806469169157dd769854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3a538b06da74a31d9b043b201d98d19') in 0.016170 seconds 
+  Import took 0.018231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Materials/items.mat
+  artifactKey: Guid(f33ac9328793af243b8f90a96f1ff6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Materials/items.mat using Guid(f33ac9328793af243b8f90a96f1ff6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b88576c4f9640ac00ec93e2def680c') in 0.035953 seconds 
+  Import took 0.038078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Materials/plant.mat
+  artifactKey: Guid(9ed33bc1613dfc042afc8b69aa0e842f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Materials/plant.mat using Guid(9ed33bc1613dfc042afc8b69aa0e842f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99bd1998d3c5aae9e2b2058c9109a230') in 0.015362 seconds 
+  Import took 0.017435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Materials/Floor.mat
+  artifactKey: Guid(0e28611e3b43133498728e5ebfe73c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Materials/Floor.mat using Guid(0e28611e3b43133498728e5ebfe73c5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd13a318f0023b3352268dae74aad3b12') in 0.009415 seconds 
+  Import took 0.011497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000287 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Materials/mesh_desk_01-tech.mat
+  artifactKey: Guid(d235a08ed0f762649a3cee4cac73fe50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Materials/mesh_desk_01-tech.mat using Guid(d235a08ed0f762649a3cee4cac73fe50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2871b1ae000cd912e6077a68b4f558c7') in 0.009902 seconds 
+  Import took 0.012192 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Materials/Wood.mat
+  artifactKey: Guid(7180b27dacdbc274c9fb4e97f7aeab83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Materials/Wood.mat using Guid(7180b27dacdbc274c9fb4e97f7aeab83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdcbce1d65a6f147aad0c9c7461e45f7') in 0.013570 seconds 
+  Import took 0.015962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Materials/screen.mat
+  artifactKey: Guid(8d43a69e0ee7c1b45a3d5750b9b8143e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Materials/screen.mat using Guid(8d43a69e0ee7c1b45a3d5750b9b8143e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e906da4fe04615c08800ca4fd2d6245c') in 0.009613 seconds 
+  Import took 0.011906 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 945.202752 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Characters/Textures
+  artifactKey: Guid(97f514be1e97bf240a51edfa9d7a6c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Characters/Textures using Guid(97f514be1e97bf240a51edfa9d7a6c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c8acd6bcbb1ebf57c6a8f89e9989d99') in 0.006461 seconds 
+  Import took 0.009090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.996717 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Textures
+  artifactKey: Guid(24d83a1774749934b898511cd8aa1478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Textures using Guid(24d83a1774749934b898511cd8aa1478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd48601c3b980defd3f2cb200fa93d7c4') in 0.002388 seconds 
+  Import took 0.005380 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000623 seconds.
+  path: Assets/PolygonalMind/LowPolyOffice/Props/Textures
+  artifactKey: Guid(24d83a1774749934b898511cd8aa1478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/PolygonalMind/LowPolyOffice/Props/Textures using Guid(24d83a1774749934b898511cd8aa1478) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd48601c3b980defd3f2cb200fa93d7c4') in 0.001809 seconds 
+  Import took 0.004111 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.182434 seconds.
+  path: Assets/Material/pisoAula.mat
+  artifactKey: Guid(da30c6f8527422b468b7a394b3f54191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/pisoAula.mat using Guid(da30c6f8527422b468b7a394b3f54191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb4c592aed9882057c6be173350b4275') in 0.032501 seconds 
+  Import took 0.034930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.943754 seconds.
+  path: Assets/Material/pisoSalaEspera.mat
+  artifactKey: Guid(7b0c523a6ee5d8942a2272a099851dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/pisoSalaEspera.mat using Guid(7b0c523a6ee5d8942a2272a099851dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca108c6bba6a35b271778d2021c65e7f') in 0.012964 seconds 
+  Import took 0.015492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.742796 seconds.
+  path: Assets/Material/paredAula.mat
+  artifactKey: Guid(c73c2994fcd58e242ae2eb0527a110bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/paredAula.mat using Guid(c73c2994fcd58e242ae2eb0527a110bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d7f881f9a50ca91bfcce9e4f6918ba8') in 0.018161 seconds 
+  Import took 0.021033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.371489 seconds.
+  path: Assets/Material/paredCuartoEspera.mat
+  artifactKey: Guid(a38c3485eb02da745b441c99c71b0b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/paredCuartoEspera.mat using Guid(a38c3485eb02da745b441c99c71b0b5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b32e371e474350504f53cd39c56000c') in 0.012690 seconds 
+  Import took 0.015357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 118.880150 seconds.
+  path: Assets/Texturas img/pisoAula.jpg
+  artifactKey: Guid(12430f6a1dbe6824cb411ebcc66ea4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/pisoAula.jpg using Guid(12430f6a1dbe6824cb411ebcc66ea4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbede92a64625c2316ac5479a7a99cac') in 0.015625 seconds 
+  Import took 0.018002 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.259009 seconds.
+  path: Assets/Texturas img/pisoAula 1.jpg
+  artifactKey: Guid(4e25967324a248640b6fdf2fa23f18b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/pisoAula 1.jpg using Guid(4e25967324a248640b6fdf2fa23f18b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0305a5e4f0686ad15a75916b7640b18') in 0.013782 seconds 
+  Import took 0.016083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.117053 seconds.
+  path: Assets/Texturas img/pisoAula NM.jpg
+  artifactKey: Guid(4e25967324a248640b6fdf2fa23f18b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/pisoAula NM.jpg using Guid(4e25967324a248640b6fdf2fa23f18b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3ce18ab86ad58e5741ecef015c11a5e') in 0.017254 seconds 
+  Import took 0.019628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.915535 seconds.
+  path: Assets/Texturas img/pisoAula NM.jpg
+  artifactKey: Guid(4e25967324a248640b6fdf2fa23f18b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/pisoAula NM.jpg using Guid(4e25967324a248640b6fdf2fa23f18b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0fa01f30120a8ddbb0d0d4d31b0270c') in 0.032759 seconds 
+  Import took 0.035147 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.917125 seconds.
+  path: Assets/Texturas img/pisoAula.jpg
+  artifactKey: Guid(12430f6a1dbe6824cb411ebcc66ea4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/pisoAula.jpg using Guid(12430f6a1dbe6824cb411ebcc66ea4d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f164fbd4f709552041682b22edc46d1') in 0.031994 seconds 
+  Import took 0.034439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 90.382067 seconds.
+  path: Assets/Material/pisoAula.mat
+  artifactKey: Guid(da30c6f8527422b468b7a394b3f54191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/pisoAula.mat using Guid(da30c6f8527422b468b7a394b3f54191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11507c88366bcfb0bdcfe2b41c0f963d') in 0.019781 seconds 
+  Import took 0.022351 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Material/pisoSalaEspera.mat
+  artifactKey: Guid(7b0c523a6ee5d8942a2272a099851dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/pisoSalaEspera.mat using Guid(7b0c523a6ee5d8942a2272a099851dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a8b1317c6ab3e192cb6b8dd314e8550') in 0.018315 seconds 
+  Import took 0.020727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 46.259258 seconds.
+  path: Assets/Cristofer/mapaFacultad1.fbx
+  artifactKey: Guid(4a57b3aa005b5d14b9ed271c00dc12d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cristofer/mapaFacultad1.fbx using Guid(4a57b3aa005b5d14b9ed271c00dc12d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b0cd6e41db596d87e5a568f0415a6a2') in 0.108497 seconds 
+  Import took 0.110923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 21.778624 seconds.
+  path: Assets/Material/pisoAula.mat
+  artifactKey: Guid(da30c6f8527422b468b7a394b3f54191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/pisoAula.mat using Guid(da30c6f8527422b468b7a394b3f54191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4136d1e85f29e5e966f86cea90f7350') in 0.015803 seconds 
+  Import took 0.018098 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 65.132146 seconds.
+  path: Assets/Material/pisoAula.mat
+  artifactKey: Guid(da30c6f8527422b468b7a394b3f54191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/pisoAula.mat using Guid(da30c6f8527422b468b7a394b3f54191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55e9721fe0e7e97bb55c2388f1073064') in 0.021894 seconds 
+  Import took 0.024258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 30.689453 seconds.
+  path: Assets/Material/pisoAula.mat
+  artifactKey: Guid(da30c6f8527422b468b7a394b3f54191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/pisoAula.mat using Guid(da30c6f8527422b468b7a394b3f54191) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a420376da5656b583cc87962417cc66') in 0.014140 seconds 
+  Import took 0.016549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.852780 seconds.
+  path: Assets/Cristofer/mapaFacultad1.fbx
+  artifactKey: Guid(4a57b3aa005b5d14b9ed271c00dc12d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cristofer/mapaFacultad1.fbx using Guid(4a57b3aa005b5d14b9ed271c00dc12d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47f1072c7a5d61a9383dbdbd7d99fefa') in 0.130991 seconds 
+  Import took 0.133593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 66.059131 seconds.
+  path: Assets/Texturas img/paredLadrillo.jpg
+  artifactKey: Guid(ad8e84bdcb7acbd4db34ecea10e6b915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/paredLadrillo.jpg using Guid(ad8e84bdcb7acbd4db34ecea10e6b915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51316302b17973d6e95a615337a19c0e') in 0.015450 seconds 
+  Import took 0.018527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000775 seconds.
+  path: Assets/Texturas img/paredLadrillo.jpg
+  artifactKey: Guid(ad8e84bdcb7acbd4db34ecea10e6b915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/paredLadrillo.jpg using Guid(ad8e84bdcb7acbd4db34ecea10e6b915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51316302b17973d6e95a615337a19c0e') in 0.012529 seconds 
+  Import took 0.015202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.576412 seconds.
+  path: Assets/Texturas img/paredLadrillo 1.jpg
+  artifactKey: Guid(b220ba2210feec043925741fed2629d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/paredLadrillo 1.jpg using Guid(b220ba2210feec043925741fed2629d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7f16535fd60b853c5ecd67d2e1c5c0') in 0.013988 seconds 
+  Import took 0.016309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000764 seconds.
+  path: Assets/Texturas img/paredLadrillo 1.jpg
+  artifactKey: Guid(b220ba2210feec043925741fed2629d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/paredLadrillo 1.jpg using Guid(b220ba2210feec043925741fed2629d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7f16535fd60b853c5ecd67d2e1c5c0') in 0.012076 seconds 
+  Import took 0.014530 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.580761 seconds.
+  path: Assets/Texturas img/paredLadrillo NM.jpg
+  artifactKey: Guid(b220ba2210feec043925741fed2629d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/paredLadrillo NM.jpg using Guid(b220ba2210feec043925741fed2629d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ad3fd0a17f83158cd5f59f337a83a09') in 0.017142 seconds 
+  Import took 0.020285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.785672 seconds.
+  path: Assets/Texturas img/paredLadrillo NM.jpg
+  artifactKey: Guid(b220ba2210feec043925741fed2629d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/paredLadrillo NM.jpg using Guid(b220ba2210feec043925741fed2629d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b118b3cf13a10299b75a74cc3abb77e7') in 0.010848 seconds 
+  Import took 0.013393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.310736 seconds.
+  path: Assets/Texturas img/paredLadrillo.jpg
+  artifactKey: Guid(ad8e84bdcb7acbd4db34ecea10e6b915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/paredLadrillo.jpg using Guid(ad8e84bdcb7acbd4db34ecea10e6b915) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01400a4fb75df6ff556b59b2bad6f3d3') in 0.023452 seconds 
+  Import took 0.025777 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.161272 seconds.
+  path: Assets/Material/paredAula.mat
+  artifactKey: Guid(c73c2994fcd58e242ae2eb0527a110bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/paredAula.mat using Guid(c73c2994fcd58e242ae2eb0527a110bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b60480d5a83e1067e9d19982ad12d77b') in 0.013635 seconds 
+  Import took 0.021203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.756649 seconds.
+  path: Assets/Cristofer/mapaFacultad1.fbx
+  artifactKey: Guid(4a57b3aa005b5d14b9ed271c00dc12d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cristofer/mapaFacultad1.fbx using Guid(4a57b3aa005b5d14b9ed271c00dc12d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc8cd531ee33f23b732b7e410a60af03') in 0.102695 seconds 
+  Import took 0.105093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 127.697884 seconds.
+  path: Assets/Material/paredAula.mat
+  artifactKey: Guid(c73c2994fcd58e242ae2eb0527a110bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/paredAula.mat using Guid(c73c2994fcd58e242ae2eb0527a110bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '286168658284a2dc84ea8a1b9a959217') in 0.011839 seconds 
+  Import took 0.014241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.179310 seconds.
+  path: Assets/Material/paredAula.mat
+  artifactKey: Guid(c73c2994fcd58e242ae2eb0527a110bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/paredAula.mat using Guid(c73c2994fcd58e242ae2eb0527a110bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '783d7f6d9adeef7864cecf902208e924') in 0.016765 seconds 
+  Import took 0.019083 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 83.572731 seconds.
+  path: Assets/Material/paredAula.mat
+  artifactKey: Guid(c73c2994fcd58e242ae2eb0527a110bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/paredAula.mat using Guid(c73c2994fcd58e242ae2eb0527a110bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ab544b59d3d197674b64c60d25e708') in 0.012842 seconds 
+  Import took 0.015514 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002932 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.048 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1048ms)
+		BeginReloadAssembly (126ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (44ms)
+		EndReloadAssembly (852ms)
+			LoadAssemblies (90ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (275ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (34ms)
+			SetupLoadedEditorAssemblies (357ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (82ms)
+				ProcessInitializeOnLoadAttributes (258ms)
+				ProcessInitializeOnLoadMethodAttributes (3ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.31 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1391 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 96.1 MB.
+System memory in use after: 96.2 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1902.
+Total: 1.978300 ms (FindLiveObjects: 0.136500 ms CreateObjectMapping: 0.040000 ms MarkObjects: 1.742200 ms  DeleteObjects: 0.058200 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 11001.700334 seconds.
+  path: Assets/Material/vidrioFacuTec.mat
+  artifactKey: Guid(6f9d808eaa542d84da01ea020004c175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/vidrioFacuTec.mat using Guid(6f9d808eaa542d84da01ea020004c175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e66fb5312f6b1cfcf53d0426656de0a1') in 0.065198 seconds 
+  Import took 0.067859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.365563 seconds.
+  path: Assets/Material/vidrioFacuTec.mat
+  artifactKey: Guid(6f9d808eaa542d84da01ea020004c175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/vidrioFacuTec.mat using Guid(6f9d808eaa542d84da01ea020004c175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5420cbd7df5396f8463d8dbedaa0c1cb') in 0.016214 seconds 
+  Import took 0.018588 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4079.324137 seconds.
+  path: Assets/Scenes/Carrera1.unity
+  artifactKey: Guid(1182963786f9fea498bfff4787f7686e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Carrera1.unity using Guid(1182963786f9fea498bfff4787f7686e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0502e60d7277310bfd0fd97790b2daae') in 0.006770 seconds 
+  Import took 0.009149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7759.767731 seconds.
+  path: Assets/Eduardo/Prefabs/Facultad de Ciencias de la Salud_Remastered.fbx
+  artifactKey: Guid(0f16fa5382226784c9e342875e2c6e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eduardo/Prefabs/Facultad de Ciencias de la Salud_Remastered.fbx using Guid(0f16fa5382226784c9e342875e2c6e05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62a77de66e924e42204fe56b8298fea7') in 0.610607 seconds 
+  Import took 0.613970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1853.345974 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d851517a2d9dd5af417c6433c50d435') in 0.008847 seconds 
+  Import took 0.011420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 391.678549 seconds.
+  path: Assets/Eduardo/Prefabs/Faculatad de Tecnologia_Remastered.fbx
+  artifactKey: Guid(ae7652317cab1194c8c53543de71e906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Eduardo/Prefabs/Faculatad de Tecnologia_Remastered.fbx using Guid(ae7652317cab1194c8c53543de71e906) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '747afc7eb6e737b3711385c6f4662ea0') in 0.313806 seconds 
+  Import took 0.316654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3141.451630 seconds.
+  path: Assets/Texturas img/ladrilloTexture.jpg
+  artifactKey: Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/ladrilloTexture.jpg using Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6a77564fd0ff887531e5bf192da69f0') in 0.030647 seconds 
+  Import took 0.033864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.890628 seconds.
+  path: Assets/Texturas img/ladrilloTexture 1.jpg
+  artifactKey: Guid(42fee8b008b9e8849ae2b70f9f6ad1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/ladrilloTexture 1.jpg using Guid(42fee8b008b9e8849ae2b70f9f6ad1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f412b3b729b766301816c1861371dd9') in 0.013490 seconds 
+  Import took 0.016022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001412 seconds.
+  path: Assets/Texturas img/ladrilloTexture 1.jpg
+  artifactKey: Guid(42fee8b008b9e8849ae2b70f9f6ad1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/ladrilloTexture 1.jpg using Guid(42fee8b008b9e8849ae2b70f9f6ad1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f412b3b729b766301816c1861371dd9') in 0.011262 seconds 
+  Import took 0.013714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.193327 seconds.
+  path: Assets/Texturas img/ladrilloTexture.jpg
+  artifactKey: Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/ladrilloTexture.jpg using Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffa5ab3078a1d016c44ae92862ab7f1d') in 0.032053 seconds 
+  Import took 0.034477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.318678 seconds.
+  path: Assets/Texturas img/ladrilloTexture NM.jpg
+  artifactKey: Guid(42fee8b008b9e8849ae2b70f9f6ad1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/ladrilloTexture NM.jpg using Guid(42fee8b008b9e8849ae2b70f9f6ad1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2730fa79ed18c6d69322ef17a1c6df05') in 0.010926 seconds 
+  Import took 0.014202 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.212046 seconds.
+  path: Assets/Texturas img/ladrilloTexture NM.jpg
+  artifactKey: Guid(42fee8b008b9e8849ae2b70f9f6ad1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/ladrilloTexture NM.jpg using Guid(42fee8b008b9e8849ae2b70f9f6ad1d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'deb321d06ca6a1a1a4d371a45ba5ce90') in 0.011747 seconds 
+  Import took 0.014177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.298339 seconds.
+  path: Assets/Material/ladrilloPared.mat
+  artifactKey: Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/ladrilloPared.mat using Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef0d5bd8953830e87e0dbeb0aff96c4b') in 0.014187 seconds 
+  Import took 0.017611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 109.214642 seconds.
+  path: Assets/Material/ladrilloPared.mat
+  artifactKey: Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/ladrilloPared.mat using Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5aa8e4bc51919d2d1f5fafb47a6c765b') in 0.023341 seconds 
+  Import took 0.025964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.142603 seconds.
+  path: Assets/Texturas img/ladrilloTexture.jpg
+  artifactKey: Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/ladrilloTexture.jpg using Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60ee15c82bfd5a7f06674acf16325941') in 0.015650 seconds 
+  Import took 0.018593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.403258 seconds.
+  path: Assets/Texturas img/ladrilloTexture.jpg
+  artifactKey: Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/ladrilloTexture.jpg using Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71b09dadb83a09d38d6a676b5eb5c2fa') in 0.014528 seconds 
+  Import took 0.017526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 50.950979 seconds.
+  path: Assets/Material/ladrilloPared.mat
+  artifactKey: Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/ladrilloPared.mat using Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3e53473dd1c4dfdba89fc3b719aa407') in 0.011991 seconds 
+  Import took 0.014507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.347968 seconds.
+  path: Assets/Material/ladrilloPared.mat
+  artifactKey: Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/ladrilloPared.mat using Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '595c379ac78004a0e772ad2660ea6b96') in 0.014637 seconds 
+  Import took 0.017390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.793055 seconds.
+  path: Assets/Material/ladrilloPared.mat
+  artifactKey: Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/ladrilloPared.mat using Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67c299022ee4a2f9a19acb4654e86577') in 0.012289 seconds 
+  Import took 0.014843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001070 seconds.
+  path: Assets/Material/ladrilloPared.mat
+  artifactKey: Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/ladrilloPared.mat using Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67c299022ee4a2f9a19acb4654e86577') in 0.011066 seconds 
+  Import took 0.013439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.686014 seconds.
+  path: Assets/Texturas img/ladrilloTexture.jpg
+  artifactKey: Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/ladrilloTexture.jpg using Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6b1a1350b69db629161daf90241da40') in 0.012738 seconds 
+  Import took 0.015359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.689112 seconds.
+  path: Assets/Texturas img/ladrilloTexture.jpg
+  artifactKey: Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/ladrilloTexture.jpg using Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2a7d0cad6ccd10421d7d915f1a974bc') in 0.012238 seconds 
+  Import took 0.014744 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.173083 seconds.
+  path: Assets/Texturas img/ladrilloTexture.jpg
+  artifactKey: Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/ladrilloTexture.jpg using Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9941623288ff2b3f0ea2e3c57f51de0f') in 0.013399 seconds 
+  Import took 0.016129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.828759 seconds.
+  path: Assets/Texturas img/ladrilloTexture.jpg
+  artifactKey: Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/ladrilloTexture.jpg using Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '570de40097befddf38db79e55f45d6ec') in 0.014388 seconds 
+  Import took 0.016860 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000993 seconds.
+  path: Assets/Texturas img/ladrilloTexture.jpg
+  artifactKey: Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/ladrilloTexture.jpg using Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '570de40097befddf38db79e55f45d6ec') in 0.015308 seconds 
+  Import took 0.017699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.957097 seconds.
+  path: Assets/Texturas img/ladrilloTexture.jpg
+  artifactKey: Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/ladrilloTexture.jpg using Guid(e31b3400ddb0284428cbf0979de2bb44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48db9880f00d1d35472becf15d91bd64') in 0.014116 seconds 
+  Import took 0.017194 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 75.594421 seconds.
+  path: Assets/Material/ladrilloPared.mat
+  artifactKey: Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/ladrilloPared.mat using Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67288623959324c3ec8f98940bd06e4e') in 0.013460 seconds 
+  Import took 0.016065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.344549 seconds.
+  path: Assets/Material/ladrilloPared.mat
+  artifactKey: Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/ladrilloPared.mat using Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19668c6d74c9000042dc379d3f2dbdb4') in 0.013909 seconds 
+  Import took 0.016401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.200882 seconds.
+  path: Assets/Material/ladrilloPared.mat
+  artifactKey: Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/ladrilloPared.mat using Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17dc86f7c72f6e404c8a9ad9d56c37d9') in 0.011983 seconds 
+  Import took 0.014459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 180.903242 seconds.
+  path: Assets/Material/vidrioFacuTec.mat
+  artifactKey: Guid(6f9d808eaa542d84da01ea020004c175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/vidrioFacuTec.mat using Guid(6f9d808eaa542d84da01ea020004c175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b97c9b1742e1cadc080e69aed100dbe8') in 0.030797 seconds 
+  Import took 0.033386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.785318 seconds.
+  path: Assets/Material/vidrioFacuTec.mat
+  artifactKey: Guid(6f9d808eaa542d84da01ea020004c175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/vidrioFacuTec.mat using Guid(6f9d808eaa542d84da01ea020004c175) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c9c61984d163d526b7e9e7d72c4d7b') in 0.012760 seconds 
+  Import took 0.015166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.153730 seconds.
+  path: Assets/Material/pisoSalaEspera.mat
+  artifactKey: Guid(7b0c523a6ee5d8942a2272a099851dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/pisoSalaEspera.mat using Guid(7b0c523a6ee5d8942a2272a099851dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a0262ffaf867736f163d358a5f2bc2b') in 0.021680 seconds 
+  Import took 0.024304 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.305646 seconds.
+  path: Assets/Material/pisoSalaEspera.mat
+  artifactKey: Guid(7b0c523a6ee5d8942a2272a099851dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/pisoSalaEspera.mat using Guid(7b0c523a6ee5d8942a2272a099851dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bc85bcb598eaf2b2085a8629928096e') in 0.016902 seconds 
+  Import took 0.019483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.517179 seconds.
+  path: Assets/Material/pisoSalaEspera.mat
+  artifactKey: Guid(7b0c523a6ee5d8942a2272a099851dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/pisoSalaEspera.mat using Guid(7b0c523a6ee5d8942a2272a099851dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2bd1d48eba25891a6f23437aa96167d') in 0.014065 seconds 
+  Import took 0.016484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 17.714422 seconds.
+  path: Assets/Material/pisoSalaEspera.mat
+  artifactKey: Guid(7b0c523a6ee5d8942a2272a099851dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/pisoSalaEspera.mat using Guid(7b0c523a6ee5d8942a2272a099851dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c123cc33f4599ad0b8f4f44e4c8acb38') in 0.013855 seconds 
+  Import took 0.016302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.891098 seconds.
+  path: Assets/Material/cemento.mat
+  artifactKey: Guid(7b0c523a6ee5d8942a2272a099851dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/cemento.mat using Guid(7b0c523a6ee5d8942a2272a099851dad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35d9db661ae875527828623d4874162') in 0.016907 seconds 
+  Import took 0.019645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.951308 seconds.
+  path: Assets/Material/ladrilloPared.mat
+  artifactKey: Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/ladrilloPared.mat using Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5572b6c838582b93b9fd082db6aca1c5') in 0.014929 seconds 
+  Import took 0.017739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 39.330417 seconds.
+  path: Assets/Material/ladrilloPared.mat
+  artifactKey: Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/ladrilloPared.mat using Guid(577b90de97058ca47aa3cfc143038243) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '342a57fab10c32f158f27f417c266d07') in 0.013044 seconds 
+  Import took 0.015395 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 201.916872 seconds.
+  path: Assets/Material/madera.mat
+  artifactKey: Guid(ed84da904a8acac478273674a8e4dca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/madera.mat using Guid(ed84da904a8acac478273674a8e4dca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b702d09e24421788b47478ac7bdc591b') in 0.012481 seconds 
+  Import took 0.015335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.045588 seconds.
+  path: Assets/Material/madera.mat
+  artifactKey: Guid(ed84da904a8acac478273674a8e4dca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/madera.mat using Guid(ed84da904a8acac478273674a8e4dca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '746376a4ecb4decaf299bc51a5973e48') in 0.010805 seconds 
+  Import took 0.013593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 330.876639 seconds.
+  path: Assets/Material/madera.mat
+  artifactKey: Guid(ed84da904a8acac478273674a8e4dca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/madera.mat using Guid(ed84da904a8acac478273674a8e4dca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa255d8f56546770d81b82c1f02b392e') in 0.014447 seconds 
+  Import took 0.017010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 202.068045 seconds.
+  path: Assets/Texturas img/logoUnivalle.jpg
+  artifactKey: Guid(f73754a0d0b696345b1350238fb9ba86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/logoUnivalle.jpg using Guid(f73754a0d0b696345b1350238fb9ba86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ceca0d40846ed7856c43ea636ebbbf0') in 0.013969 seconds 
+  Import took 0.017117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.987323 seconds.
+  path: Assets/Texturas img/logoUnivalle.jpg
+  artifactKey: Guid(f73754a0d0b696345b1350238fb9ba86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/logoUnivalle.jpg using Guid(f73754a0d0b696345b1350238fb9ba86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1306af7909ff51633ace2fb6fdfa38') in 0.021471 seconds 
+  Import took 0.023847 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.638731 seconds.
+  path: Assets/Material/logoUnivalle.mat
+  artifactKey: Guid(13d500bdcb56b7047813521058344a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/logoUnivalle.mat using Guid(13d500bdcb56b7047813521058344a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf1f653ed59b619e15eabb782b849418') in 0.007643 seconds 
+  Import took 0.010451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.646252 seconds.
+  path: Assets/Material/logoUnivalle.mat
+  artifactKey: Guid(13d500bdcb56b7047813521058344a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/logoUnivalle.mat using Guid(13d500bdcb56b7047813521058344a0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6dc722aa522202661f587c73fd22e12b') in 0.009931 seconds 
+  Import took 0.012506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.862346 seconds.
+  path: Assets/Texturas img/logoUnivalle.jpg
+  artifactKey: Guid(f73754a0d0b696345b1350238fb9ba86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Texturas img/logoUnivalle.jpg using Guid(f73754a0d0b696345b1350238fb9ba86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70acda50d421196dce4f2c84b8de9376') in 0.011593 seconds 
+  Import took 0.013954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 733.631682 seconds.
+  path: Assets/Material/madera.mat
+  artifactKey: Guid(ed84da904a8acac478273674a8e4dca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Material/madera.mat using Guid(ed84da904a8acac478273674a8e4dca8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd95f03acc475f2cdce0864e4c9f2a1a7') in 0.018285 seconds 
+  Import took 0.020697 seconds .
 
 AssetImportWorkerClient::OnTransportError - code=2 error=End of file

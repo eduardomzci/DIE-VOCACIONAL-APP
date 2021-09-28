@@ -3,7 +3,12 @@ guid: 15d0f31bf3f259c458056814fc3f2c74
 ModelImporter:
   serializedVersion: 20200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Camino
+    second: {fileID: 2100000, guid: c78e367bfff7ced4984458db79a3e10c, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
