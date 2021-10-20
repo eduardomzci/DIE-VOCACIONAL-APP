@@ -28,4 +28,9 @@ public class CambiarEscenaDemo : MonoBehaviour
         yield return new WaitForSeconds(transitionTime);
         SceneManager.LoadScene(numeroEscena);
     }
+
+    public void mapaPrincipal() 
+    {
+        SceneManager.LoadScene(0);
+    } 
 }
